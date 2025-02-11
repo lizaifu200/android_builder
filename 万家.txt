@@ -88,7 +88,70 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/优酷弹幕.js"
     },
-     {
+{
+           "key": "py_剧多",
+           "name": "剧多短剧py",
+           "filterable": 1,
+           "quickSearch": 1,
+           "searchable": 1,
+           "type": 3,
+           "api": "./py/剧多短剧.py"
+       },     
+{
+           "key": "py_lav",
+           "name": "laypy",
+           "filterable": 1,
+           "quickSearch": 1,
+           "searchable": 1,
+           "type": 3,
+           "api": "./py/lav.py"
+       },
+{
+           "key": "py_小红薯",
+           "name": "小红薯py",
+           "filterable": 1,
+           "quickSearch": 1,
+           "searchable": 1,
+           "type": 3,
+           "api": "./py/小红薯.py"
+       },
+{
+           "key": "py_推特",
+           "name": "推特py",
+           "filterable": 1,
+           "quickSearch": 1,
+           "searchable": 1,
+           "type": 3,
+           "api": "./py/推特.py"
+       },
+{
+           "key": "py_爱",
+           "name": "爱奇异py",
+           "filterable": 1,
+           "quickSearch": 1,
+           "searchable": 1,
+           "type": 3,
+           "api": "./py/爱.py"
+       },
+{
+           "key": "py_腾",
+           "name": "腾讯视频py",
+           "filterable": 1,
+           "quickSearch": 1,
+           "searchable": 1,
+           "type": 3,
+           "api": "./py/腾.py"
+       },
+{
+           "key": "py_芒",
+           "name": "芒果py",
+           "filterable": 1,
+           "quickSearch": 1,
+           "searchable": 1,
+           "type": 3,
+           "api": "./py/芒.py"
+       },
+{
       "key": "真心影视",
       "name": "真心影视1080",
       "type": 3,
