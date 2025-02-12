@@ -151,18 +151,18 @@
            "type": 3,
            "api": "./py/芒.py"
        },
-    {
-      "key": "csp_麻花",
-      "name": "麻花App",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "./py/Appapi.js",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "aHR0cDovLzEyMy4yMDcuMjIxLjgwOjU1NS9hcGkucGhwfHE3Z2o0ZjlicjNmbHM2bmh8cTdnajRmOWJyM2ZsczZuaA=="
-    },
+ {
+     "key": "csp_麻花",
+     "name": "麻花App",
+     "type": 3,
+     "searchable": 1,
+     "changeable": 1,
+     "quickSearch": 1,
+     "api": "./py/Appapi.js",
+     "playerType": 2,
+     "filterable": 1,
+     "ext": "aHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrL2FwaS5waHB8azlvM3AyYzhiN20zejBvOHxrOW8zcDJjOGI3bTN6MG84"
+   },
    {
      "key": "csp_夜猫",
      "name": "夜猫",
