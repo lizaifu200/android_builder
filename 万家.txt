@@ -97,60 +97,8 @@
            "type": 3,
            "api": "./py/剧多短剧.py"
        },     
-{
-           "key": "py_lav",
-           "name": "laypy",
-           "filterable": 1,
-           "quickSearch": 1,
-           "searchable": 1,
-           "type": 3,
-           "api": "./py/lav.py"
-       },
-{
-           "key": "py_小红薯",
-           "name": "小红薯py",
-           "filterable": 1,
-           "quickSearch": 1,
-           "searchable": 1,
-           "type": 3,
-           "api": "./py/小红薯.py"
-       },
-{
-           "key": "py_推特",
-           "name": "推特py",
-           "filterable": 1,
-           "quickSearch": 1,
-           "searchable": 1,
-           "type": 3,
-           "api": "./py/推特.py"
-       },
-{
-           "key": "py_爱",
-           "name": "爱奇异py",
-           "filterable": 1,
-           "quickSearch": 1,
-           "searchable": 1,
-           "type": 3,
-           "api": "./py/爱.py"
-       },
-{
-           "key": "py_腾",
-           "name": "腾讯视频py",
-           "filterable": 1,
-           "quickSearch": 1,
-           "searchable": 1,
-           "type": 3,
-           "api": "./py/腾.py"
-       },
-{
-           "key": "py_芒",
-           "name": "芒果py",
-           "filterable": 1,
-           "quickSearch": 1,
-           "searchable": 1,
-           "type": 3,
-           "api": "./py/芒.py"
-       },
+
+
  {
      "key": "csp_麻花",
      "name": "麻花App",
@@ -259,18 +207,7 @@
      "filterable": 1,
      "ext": "aHR0cDovLzU5LjE1My4xNjQuMTI0OjY2NTUvamoucGhwfEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyNw=="
    },
-{
-     "key": "csp_duofun",
-     "name": "duofun动漫App",
-     "type": 3,
-     "searchable": 1,
-     "changeable": 1,
-     "quickSearch": 1,
-     "api": "./py/Appapi.js",
-     "playerType": 2,
-     "filterable": 1,
-     "ext": "aHR0cHM6Ly9qaWVrb3UuNTZ1eGkuY29tL2FwaS5waHB8c2E1ZDRzNWE2NGQ1cXc2MXxzYTVkNHM1YTY0ZDVxdzYx"
-   },
+
   {
      "key": "csp_次元派对",
      "name": "次元派对动漫App",
@@ -283,18 +220,7 @@
      "filterable": 1,
      "ext": "aHR0cHM6Ly9hcHBjbXMuYWNnLnBhcnR5L2FwaS5waHB8ZjY2NjYwM2IyMjA3MGVhM3xmNjY2NjAzYjIyMDcwZWEz"
    },
-  {
-     "key": "csp_MiFun",
-     "name": "MiFunApp",
-     "type": 3,
-     "searchable": 1,
-     "changeable": 1,
-     "quickSearch": 1,
-     "api": "./py/Appapi.js",
-     "playerType": 2,
-     "filterable": 1,
-     "ext": "aHR0cDovL2dldC5vcGVuLm1pZnVuLm9yZy9hcGkucGhwfEdFVE1JRlVOR0VJTUlGVU58R0VUTUlGVU5HRUlNSUZVTg=="
-   },
+
  {
      "key": "csp_酷云",
      "name": "酷云App",
